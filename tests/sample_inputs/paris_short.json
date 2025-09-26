@@ -1,0 +1,9 @@
+{
+  "city": "Paris",
+  "start": "2025-05-01",
+  "end": "2025-05-03",
+  "party": 2,
+  "mode": "walk",
+  "pace": "medium",
+  "themes": ["museum", "food"]
+}
